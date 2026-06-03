@@ -32,7 +32,7 @@
             display-name = "default";
             bindings = <
                 &kp DE_CARET &kp DE_N1 &kp DE_N2 &kp DE_N3 &kp DE_N4 &kp DE_N5 &kp DE_N6 &kp DE_N7 &kp DE_N8 &kp DE_N9 &kp DE_N0 &kp DE_CARET
-                &kp DE_ESCAPE &kp Q &kp W &kp E &kp R &kp T &kp DE_Z &kp U &kp I &kp O &kp P &kp BSPC
+                &kp ESC &kp Q &kp W &kp E &kp R &kp T &kp DE_Z &kp U &kp I &kp O &kp P &kp BSPC
                 &kp TAB &kp A &kp S &kp D &kp F &kp G &kp H &kp J &kp K &kp L &kp DE_SEMI &kp DE_SQT
                 &kp LSHFT &kp DE_Y &kp X &kp C &kp V &kp B &kp C_MUTE &kp C_PLAY &kp N &kp M &kp DE_COMMA &kp DE_DOT &kp DE_FSLH &kp RSHFT
                 &kp LGUI &kp LALT &kp LCTRL &mo LOWER &kp RET &kp SPACE &mo RAISE &kp RCTRL &kp RALT &kp RGUI
